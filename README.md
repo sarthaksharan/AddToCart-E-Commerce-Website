@@ -1,3 +1,14 @@
+# AddToCart: An E-Commerce Website made using ReactJS, Express, Firebase and Stripe
+
+  Website Link: https://e-commerce-website-a51c5.web.app/
+
+Front End: ReactJS
+Back End: Express NodeJS
+User Authentication and Deployment: Firebase
+Payment Processing: Stripe
+
+You will have to install all the required dependencies in your source folder. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
